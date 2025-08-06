@@ -41,5 +41,3 @@ This project helped me understand the foundational concepts of 2D CAD modeling a
 
 ---
 
-> 🎓 **Note:** This was created as a learning exercise during my B.Tech Civil Engineering coursework in the first year, intersecting my interest in structured design and visual layout planning.
-
